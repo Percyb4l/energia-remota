@@ -1,0 +1,9 @@
+[project]
+name = "energia-remota"
+version = "0.1.0"
+description = "Ofertas y contratos de energia remota entre generadores y consumidores."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+addopts = "--cov=energia_remota --cov-report=term-missing --cov-report=xml --cov-fail-under=60"
