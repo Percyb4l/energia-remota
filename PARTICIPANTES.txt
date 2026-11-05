@@ -1,4 +1,5 @@
 Participantes
 - Jhonnier Andres Becerra
+- Juan Pablo Montealegre
 
 Cada integrante agrega su propia prueba en tests/ y su nombre en esta lista. Quien no participe no se incluye.
