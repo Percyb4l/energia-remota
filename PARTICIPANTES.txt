@@ -3,5 +3,6 @@ Participantes
 - Juan Pablo Montealegre
 - Andres Fernando Barbosa
 - Freddy Alexander Melo Buitrago 
+- Angie Valencia Quenan
 
 Cada integrante agrega su propia prueba en tests/ y su nombre en esta lista. Quien no participe no se incluye.
